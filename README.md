@@ -1,8 +1,10 @@
-## Hi there 👋
+<!--나의 정보-->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome%20to%20DongHyuk's%20Github%21%F0%9F%91%8B&fontSize=40&animation=fadeIn"/>
 
 <!--
 **flffkd12/flffkd12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
