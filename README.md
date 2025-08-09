@@ -1,6 +1,8 @@
 <!-- 나의 정보 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome%20to%20DongHyuk's%20Github%21%F0%9F%91%8B&fontSize=40&animation=fadeIn"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome%20to%20DongHyuk's%20Github%21%F0%9F%91%8B&fontSize=40&animation=fadeIn"/>
+</p>
 
 <!-- 뱃지: 이메일, Velog, 인스타그램 -->
 
