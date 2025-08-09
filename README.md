@@ -31,8 +31,50 @@
   </strong>
 </p>
 
+<!-- 현재까지의 이력 -->
 
+## 📜 Career Journey
+간단한 이력 소개(인생 이력?)
 
+<!-- 기술 스택 -->
+
+## 🛠 Tech Stack
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+</p>
+
+### Mobile Development
+<p>
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=android&logoColor=white"/>
+</p>
+
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=spring-security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-007396?style=flat&logo=hibernate&logoColor=white"/>
+</p>
+
+### Database
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+</p>
+
+### Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white"/>
+</p>
+
+<!-- 알고리즘 역량 -->
+
+## 🧩 Problem-Solving Skills
+알고리즘/문제 해결 역량(백준, 프로그래머스)
 
 
 
