@@ -42,7 +42,7 @@
 
 ### Languages
 <p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo="missing logo"&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
 </p>
@@ -67,14 +67,12 @@
 
 ### Cloud & DevOps
 <p>
-  <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat&logo="missing logo"logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white"/>
 </p>
 
 <!-- 알고리즘 역량 -->
 
 ## 🧩 Problem-Solving Skills
-알고리즘/문제 해결 역량(백준, 프로그래머스)
 
-
-
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=moderation2015)](https://solved.ac/profile/moderation2015)
